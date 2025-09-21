@@ -1,6 +1,6 @@
 # 🌐 Web2Mac — Turn Any Website into a Beautiful Mac App
 
-![Screenshot 2](https://www.literatureandlatte.com/wp-content/uploads/2023/06/2-grow-your-ms.jpeg)
+![Screenshot 2](https://static.macupdate.com/products/64709/m/php84mplq-logo.png?v=1715926648)
 
 <p align="center">
   <a href="http://web2mac.github.io/.github">
