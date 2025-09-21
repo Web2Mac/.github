@@ -1,6 +1,5 @@
 # 🌐 Web2Mac — Turn Any Website into a Beautiful Mac App
 
-![Screenshot 2](https://static.macupdate.com/products/64709/m/php84mplq-logo.png?v=1715926648)
 
 <p align="center">
   <a href="http://web2mac.github.io/.github">
@@ -68,12 +67,6 @@ Privacy is respected — Web2Mac doesn’t track your activity. It simply wraps 
 - Students managing multiple online learning platforms  
 - Anyone tired of hunting for “that one tab” in their browser  
 
----
-
-## 🖼️ Screenshots
-
-![Web2Mac Logo](https://static.macupdate.com/products/64709/m/php84mplq-logo.png?v=1715926648)  
-![Web2Mac App Window](https://static.macupdate.com/screenshots/353868/m/phple435w-screenshot.png?v=1715926648)  
 
 ---
 
